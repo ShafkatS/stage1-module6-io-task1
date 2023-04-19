@@ -18,5 +18,4 @@ public class FileReader {
         }
         return new Profile("Anna", 25, "anna@mailserver.com", 1234567890L);
     }
-    }
 }
